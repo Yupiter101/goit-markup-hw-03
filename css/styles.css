@@ -53,8 +53,8 @@ body {
   text-decoration: none; /*сброс подчеркивания*/
 }
 
-/* Common boxes in site */
-.box{
+/* Common containeres in site */
+.container{
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
